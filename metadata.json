@@ -1,0 +1,6 @@
+{
+  "name": "PDF to Excel Layout Recreator",
+  "description": "Recreates PDF files into editable Excel workbooks, accurately preserving page structure, tables, formatting, text layout, and images using text layers and OCR fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
